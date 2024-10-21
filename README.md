@@ -43,7 +43,7 @@ python scr
     
 ## Authors
 
-- [Nandito Fatoni Amri](https://www.github.com/nandito-amri)
+- [Nandito Fatoni Amri](https://www.github.com/nandito-amri): nandito.f.amri@gmai.com
 
 
 ## Features

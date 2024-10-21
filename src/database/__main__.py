@@ -10,7 +10,7 @@ load_dotenv()
 dirname = os.getenv('DATASET_FOLDER_PATH')
 
 if not dirname:
-    raise ValueError("DATASET_FOLDER_PATH is not found. Please set the environment variables in .env")
+  raise ValueError("DATASET_FOLDER_PATH is not found. Please set the environment variables in .env")
 
 # User Listening Histories Dataset
 listening_file = create_file_dict(dirname, path_listening_history, path_listening_history_parquet)
