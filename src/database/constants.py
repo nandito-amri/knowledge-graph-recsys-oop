@@ -1,7 +1,7 @@
-listening_history = "userid-timestamp-artid-artname-traid-traname.tsv"
+path_listening_history = "userid-timestamp-artid-artname-traid-traname.tsv"
 
-user_data = "userid-profile.tsv"
+path_user_data = "userid-profile.tsv"
 
-listening_history_parquet = "listening_history.snappy.parquet"
+path_listening_history_parquet = "listening_history.snappy.parquet"
 
-user_data_parquet = "user_data.snappy.parquet"
+path_user_data_parquet = "user_data.snappy.parquet"
