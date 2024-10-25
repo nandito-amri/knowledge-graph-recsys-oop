@@ -31,9 +31,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all mod
 pip install -r requirements.txt
 ```
 
-Run the codes in `database` folder. These codes is used for data preparation.
+Run the module code in `database` folder. These codes is used for data preparation.
 ```bash
-python src/database
+cd src
+python -m database
+cd ..
 ```
 
 Run the codes in root `src` folder to execute this projects. 
@@ -43,7 +45,9 @@ python scr
     
 ## Authors
 
-- [Nandito Fatoni Amri](https://www.github.com/nandito-amri): nandito.f.amri@gmai.com
+- Nandito Fatoni Amri
+  - (GitHub @nandito-amri)(https://www.github.com/nandito-amri): 
+  - Email: nandito.f.amri@gmai.com
 
 
 ## Features
