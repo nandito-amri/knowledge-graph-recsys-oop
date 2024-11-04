@@ -12,3 +12,5 @@ path_user_data = "userid-profile.tsv"
 path_listening_history_parquet = "listening_history.snappy.parquet"
 
 path_user_data_parquet = "user_data.snappy.parquet"
+
+path_graphml = 'knowledge_graph.graphml'
